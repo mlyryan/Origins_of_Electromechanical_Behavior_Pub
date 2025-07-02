@@ -1,4 +1,4 @@
-# Origins of Piezoresistive Behavior in Surface-Localized Nanocomposites: Insights into Crack Network Dynamics and Particle Network Rearrangements
+# Origins of Electromechanical Behavior in Surface-Localized Nanocomposites: Insights into Crack Network Dynamics and Particle Network Rearrangements
 
 **Emily A. Ryan¹, Natalie Raia¹, John R. Reynolds¹², Meisha L. Shofner¹***  
 ¹ School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, GA, 30322, United States  

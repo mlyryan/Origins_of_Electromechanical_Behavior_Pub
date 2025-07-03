@@ -49,4 +49,4 @@ The STL files were printed using **fused deposition modeling (FDM)** with a **0.
 
 If you use these STL files or methods in your work, please cite:
 
-Ryan, E. A.; Raia, N.; Reynolds, J. R.; Shofner, M. L. *Origins of Electromechanical Behavior in Surface-Localized Nanocomposites: Insights into Crack Network Dynamics and Particle Network Rearrangements*. **ACS Appl. Mater. Interfaces**, 2025. (in review)
+Ryan, E. A.; Raia, N.; Reynolds, J. R.; Shofner, M. L. *Origins of Electromechanical Behavior in Surface-Localized Nanocomposites: Insights into Crack Network Dynamics and Particle Network Rearrangements*. **ACS Applied Polymer Materials**, 2025. (in review)
